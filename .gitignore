@@ -1,0 +1,8 @@
+.spark-tmp/
+__pycache__/
+*.py[cod]
+DataSet/
+raw_data/data/temp/
+raw_data/data/dictionary/
+raw_data/data/final/
+.env
